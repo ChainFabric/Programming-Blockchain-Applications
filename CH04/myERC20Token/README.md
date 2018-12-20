@@ -1,7 +1,7 @@
 # Programming Blockchain Applications: Chapter 4 - MyERC20Token
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-<img src="../chainfabric-logo.png" alt="ChainFabric" width="287px">
+<img src="../../chainfabric-logo.png" alt="ChainFabric" width="287px">
 
 This folder contains the source code of "MyERC20Token" token as described in chapter 4 of the "Programming Blockchain Applications" book.
 
